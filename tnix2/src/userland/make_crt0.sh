@@ -1,0 +1,1 @@
+nasm -o crt0.o -felf crt0.s
